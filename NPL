@@ -1,0 +1,11 @@
+Description=NPL
+Type=HTTP
+TrustAll=true
+Authentication=NoAuthentication
+Name=NPL
+ProxyType=Internet
+URL=http\://123.456.789.012\:8000
+WebIDEUsage=odata_gen,odata_abap,ui5_execute_abap,dev_abap,bsp_execute_abap
+WebIDESystem=NPL
+WebIDEEnabled=true
+sap-client=001
